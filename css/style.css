@@ -1,0 +1,119 @@
+header{
+  background-color: lightyellow;
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+.container{
+  width: 400px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.container > h1{
+  width: 400px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.intro ul{
+  display: flex;
+  width: 300px;
+  margin-right: auto;
+  margin-left: auto;
+  list-style-type: none;
+}
+.intro ul li{
+  margin-right: 50px;
+}
+.BackGround{
+  background-image: url("sazaehome.png");
+  background-color: rgba(255, 255, 255, 0.9);
+  background-blend-mode: lighten;
+}
+.enemy{
+  margin-top: 30px;
+}
+.enemy > h1{
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.sazae_image{
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.sazae_image img{
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.sazae_hand{
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.sazae_hand img{
+  width: 100px;
+  margin-top: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.WinorLose{
+  margin-left: 200px;
+  font-size: 60px;
+  text-align: center;
+}
+.yourHand{
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0px;
+}
+.yourHand img{
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.user{
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.user > h1{
+  width: 300px;
+  margin-top: 5px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.user_hand{
+  display: flex;
+}
+.gu{
+  margin-left: 40px;
+  cursor: pointer;
+}
+.gu h1{
+  margin-left: 20px;
+}
+.tyoki{
+  margin-left: 30px;
+  cursor: pointer;
+}
+.tyoki h1{
+  margin-left: 15px;
+}
+.pa-{
+  margin-left: 40px;
+  cursor: pointer;
+}
+.pa- h1{
+  margin-left: 20px;
+}
+footer p{
+  text-align: center;
+  font-size: 14px;
+  color: gray;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+
